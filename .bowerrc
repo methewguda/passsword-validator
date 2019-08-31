@@ -1,0 +1,10 @@
+{
+  "directory": "public/libraries/",
+  "timeout": 120000,
+  "registry": {
+    "search": [
+      "http://localhost:3000",
+      "https://registry.bower.io"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "passsword-validator",
+  "description": "",
+  "main": "server/app.js",
+  "authors": [
+    "Methew Guda <methewguda@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/methewguda/passsword-validator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libraries/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
